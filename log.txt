@@ -1,3 +1,5 @@
 new string for pulling
 
 new string for rebase
+
+new string for stashing
